@@ -1,6 +1,6 @@
 # Velocity of a Quantum Particle in a Classically Forbidden Region — simulation code
 
-Code written and by Dustin Lazarovici (Technion) with Claude AI. 
+Code written by Dustin Lazarovici (Technion) with Claude AI. 
 
 Simulation and analysis code accompanying:
 
