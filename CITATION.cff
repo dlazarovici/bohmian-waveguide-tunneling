@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Simulation code for: Velocity of a Quantum Particle in a Classically Forbidden Region"
+abstract: >-
+  GPU (CuPy) split-step simulation of a Gaussian wavepacket scattering off a
+  potential step in a coupled double-well waveguide, with Bohmian-trajectory
+  integration and dwell-time analysis. Produces the figures of the accompanying
+  paper by C. Beck, S. Goldstein, D. Lazarovici, R. Tumulka and N. Zanghi.
+type: software
+license: GPL-3.0-or-later
+version: 1.0.0
+date-released: "2026-07-30"
+authors:
+  - family-names: Lazarovici
+    given-names: Dustin
+    orcid: "https://orcid.org/0000-0002-1484-1172"
+    affiliation: "Technion - Israel Institute of Technology"
+keywords:
+  - Bohmian mechanics
+  - dwell time
+  - tunneling
+  - evanescent waves
+  - coupled waveguides

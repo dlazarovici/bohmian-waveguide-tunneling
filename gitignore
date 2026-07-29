@@ -1,0 +1,14 @@
+# outputs
+results/
+batch_out/
+*.npz
+*.json
+!.zenodo.json
+*.mp4
+*.png
+*.pdf
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/

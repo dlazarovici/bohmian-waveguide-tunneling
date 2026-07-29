@@ -1,0 +1,20 @@
+{
+  "title": "Simulation code for: Velocity of a Quantum Particle in a Classically Forbidden Region",
+  "description": "<p>GPU (CuPy) split-step simulation of a Gaussian wavepacket scattering off a potential step in a coupled double-well waveguide, with Bohmian-trajectory integration and dwell-time analysis. This is the code that produced the figures of the accompanying paper by C. Beck, S. Goldstein, D. Lazarovici, R. Tumulka and N. Zangh&igrave;.</p><p>A correct build prints hbar*J0 = 26.2 ueV at startup and satisfies d0 = -Delta - hbar*J0 exactly (d0 = +0.017510 at DETUNING_MEV = -0.07).</p>",
+  "upload_type": "software",
+  "license": "GPL-3.0-or-later",
+  "access_right": "open",
+  "creators": [
+    { "name": "Lazarovici, Dustin",
+      "affiliation": "Technion - Israel Institute of Technology",
+      "orcid": "0000-0002-1484-1172" }
+  ],
+  "keywords": [
+    "Bohmian mechanics",
+    "dwell time",
+    "tunneling",
+    "evanescent waves",
+    "coupled waveguides",
+    "split-step Fourier method"
+  ]
+}
